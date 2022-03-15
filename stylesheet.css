@@ -4,6 +4,7 @@
 
 .our-team {
     padding: 20px 0px;
+    padding-left:10px;
     background: #fff;
     text-align: center;
     overflow: hidden;
@@ -123,8 +124,10 @@
 .team-wrapper {
     height: 500px;
     padding-bottom: 80px;
+    width: 80%;
     background-color: #f7f7f7;
     text-align: center;
+    float:left;
     
   }
 /*header*/
@@ -202,8 +205,11 @@ header {
     margin-bottom: -5px;
     margin-top:-5px;
   }
-  /*sidebar*/
+
 .h-b-f{
     float:right;
     width:83.5%;
+}
+main{
+    padding-right:120px;
 }
