@@ -204,6 +204,7 @@ header {
   }
   /*sidebar*/
 .h-b-f{
+    padding-left:30px
     float:right;
     width:90%;
 }
